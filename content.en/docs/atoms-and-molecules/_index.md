@@ -612,7 +612,7 @@ For a person with hypermetropia, the near point has moved to 1.5m. Calculate the
 
 **Solution:**
 
-Given that, d = 1.5m; D = 25cm = 0.25m (For a normal eye).
+Given that, d = 1.5m; D = 25cm = 0.25m (For normal eye).
 
 From equation (2.8), the focal length of the correction lens is:
 
